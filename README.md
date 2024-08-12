@@ -18,7 +18,7 @@ Diyabet, dünya genelinde milyonlarca insanı etkileyen kronik bir hastalıktır
 ## Veri Seti
 Bu projede kullanılan veri seti, yaş, BMI, kan basıncı, insülin seviyeleri ve daha fazlası gibi çeşitli sağlık ölçütlerini içermektedir. Veri seti, [Pima Indian Diyabet Veri Seti](https://www.kaggle.com/uciml/pima-indians-diabetes-database)'nden alınmıştır.
 
-##Model Eğitimi ve Değerlendirme
+## Model Eğitimi ve Değerlendirme
 Proje, model eğitimi ve değerlendirme için aşağıdaki adımları içermektedir:
 
 - Veri Ön İşleme
